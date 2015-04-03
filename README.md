@@ -1,6 +1,8 @@
 dpostserver
 ===========
 
+![alt tag](http://dpostmailer.files.wordpress.com/2013/09/logo_96.png)
+
 Web Site and Application Mailer, based on Scala & Akka & PlayFramework 2
 
 Creates e-mails from templates. Really cool for your e-commerce needs.
