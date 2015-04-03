@@ -7,7 +7,7 @@ Creates e-mails from templates. Really cool for your e-commerce needs.
 
 Suitable for ANY site language(PHP, .NET, Java, Scala, ANY!)
 
-
+Java 7 required to install and run JPOST
 
 Download and install(binary in zip):
 
