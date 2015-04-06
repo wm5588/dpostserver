@@ -21,7 +21,13 @@ https://sourceforge.net/projects/dpost/
 
 Installation guide installation.pdf (and other documents) are in downloadable zip.
 
-If you need the architecture in a glance, see that: https://github.com/beep02/dpostserver/blob/master/docs/architecture.pdf
+If you need the architecture in a glance, see that: 
+
+https://github.com/beep02/dpostserver/blob/master/docs/architecture.pdf
+
+If you need to see how looks the code snippet of your client, when it talks to DPOST, see that:
+
+https://github.com/beep02/dpostserver/tree/master/details/clients
 
 Thanks for considering DPost.
 
