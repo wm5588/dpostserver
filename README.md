@@ -5,25 +5,23 @@ dpostserver
 
 Web Site and Application Mailer, based on Scala & Akka & PlayFramework 2
 
-Creates e-mails from templates. Really cool for your e-commerce needs.
+Creates dynamic e-mails from templates and sends them to clients, when your site/app asks that. 
 
-Suitable for ANY site language(PHP, .NET, Java, Scala, ANY!)
+Suitable for web-shop, small/middle business, web-cloud, private or virtual hosting. 
 
-Java 7 required to install and run JPOST
+Suitable for ANY site language(PHP, .NET, Java, Scala, ANY!!!!) - this is because DPOST talks HTTP/JSON.
+
+Example client snippets for .Net, PHP, Java, Scala provided.
+
+Java 7 required to install and run JPOST (in the same local network/computer, where your site hosted).
 
 Download and install(binary in zip):
 
 https://sourceforge.net/projects/dpost/
 
-Installation guide installation.pdf (and other docs) you may download together with binary distribution from here:
+Installation guide installation.pdf (and other documents) are in downloadable zip.
 
-https://sourceforge.net/projects/dpost/
-
-Or just from docs directory here:
-
-https://github.com/beep02/dpostserver/tree/master/docs
-
-
+If you need the architecture in a glance, see that: https://github.com/beep02/dpostserver/blob/master/docs/architecture.pdf
 
 Thanks for considering DPost.
 
